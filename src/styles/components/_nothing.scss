@@ -1,0 +1,21 @@
+.nothing {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: $google-blue;
+  height: 100%;
+}
+.nota {
+  color: #e6ddd6;
+  // border-bottom: 3px solid $primary;
+  text-transform: uppercase;
+  font-size: 2em;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-family: monospace;
+}
+.skull {
+  color: white;
+  padding: 15px;
+}
